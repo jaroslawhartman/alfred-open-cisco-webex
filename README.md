@@ -5,6 +5,7 @@ Pre-requisites:
 
 *  [Alfred](https://www.alfredapp.com/) - free
 *  [Alfred Power Pack](https://www.alfredapp.com/powerpack/buy/) - commericial, but I strongly recommend
+*  [Webex Workflow](https://github.com/jaroslawhartman/alfred-open-cisco-webex/releases) - download
 
 # Introduction
 
